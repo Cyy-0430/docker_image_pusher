@@ -4,3 +4,4 @@ redis:7.2.5
 elasticsearch:7.17.22
 kibana:7.17.22
 openjdk:21
+nacos/nacos-server
