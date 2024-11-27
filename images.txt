@@ -5,3 +5,4 @@ elasticsearch:7.17.22
 kibana:7.17.22
 openjdk:21
 nacos/nacos-server
+sequenceiq/hadoop-docker 
